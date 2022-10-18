@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  text: MyString
+  start_date: 2022-10-12
+  end_date: 2022-10-12
+  check: false
+  memo: MyText
+
+two:
+  text: MyString
+  start_date: 2022-10-12
+  end_date: 2022-10-12
+  check: false
+  memo: MyText
